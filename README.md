@@ -1,25 +1,43 @@
-# Portfolio Router / Selected Work
+# Selected Work
 
-Small public routing repository for selected work by **Samandar Mansurkhodjaev**.
+## Русский
 
-This repository is intentionally minimal. Its purpose is to route visitors toward stronger, documented projects, public demos and code-safe case studies.
+Публичная навигационная точка по выбранным проектам **Самандара Мансурходжаева**.
 
-## Recommended Projects
+Этот репозиторий нужен не как отдельный “проект ради проекта”, а как короткий вход в самые сильные материалы: карточки, live demos, публичный код и безопасные case studies приватных работ.
 
-- [Project Card Gallery](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) — shareable English/Russian one-page cards for the strongest projects.
-- [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — code-safe case studies for private, commercial and product work.
-- [Sentinel Edge / smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino-style firmware, Node.js bridge and React realtime dashboard.
-- [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram automation with clean architecture and reminders.
-- [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech app with reports and domain logic.
-- [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL frontend demo with a live GitHub Pages deployment.
+## Рекомендуемый маршрут
 
-## Русская версия
+| Направление | Что открыть |
+|---|---|
+| Полная витрина | [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) |
+| Карточки проектов | [Project Card Gallery](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) |
+| Embedded / IoT | [Sentinel Edge / smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) |
+| Telegram automation | [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) |
+| Health-tech mobile | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) |
+| Visual frontend | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) |
 
-Этот репозиторий — лёгкая навигационная точка. Основные проекты, которые стоит смотреть работодателю или техлиду:
+## Что это доказывает
 
-- [Project Card Gallery](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) — отдельные карточки проектов на английском и русском.
-- [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — кейсы приватных и коммерческих проектов без раскрытия исходного кода.
-- [Sentinel Edge / smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — firmware, serial protocol, Node.js bridge и realtime dashboard.
-- [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Telegram automation на Rust.
-- [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение.
-- [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — визуальный frontend/WebGL проект.
+Портфолио не ограничено одной зоной: есть full-stack, AI automation, embedded/IoT, Telegram workflows, mobile health-tech, visual frontend и приватные коммерческие системы, описанные без раскрытия кода.
+
+## English
+
+Public routing point for selected work by **Samandar Mansurkhodjaev**.
+
+This repository exists not as a “project for the sake of a project”, but as a short entry point into the strongest materials: cards, live demos, public code and safe case studies for private work.
+
+## Recommended Route
+
+| Direction | What to open |
+|---|---|
+| Full showcase | [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) |
+| Project cards | [Project Card Gallery](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) |
+| Embedded / IoT | [Sentinel Edge / smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) |
+| Telegram automation | [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) |
+| Health-tech mobile | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) |
+| Visual frontend | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) |
+
+## What This Proves
+
+The portfolio is not limited to one narrow area: it includes full-stack, AI automation, embedded/IoT, Telegram workflows, mobile health-tech, visual frontend and private commercial systems documented without exposing code.
